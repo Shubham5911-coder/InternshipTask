@@ -61,7 +61,7 @@ class NumberGame {
     }
 }
 
-public class Main {
+public class GuessTheNumber{
     public static void main(String[] args) {
         int lowerBound = 1;
         int upperBound = 100;
